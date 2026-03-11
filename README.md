@@ -4,7 +4,7 @@
 L’objectif de ce mini-projet est d’apprendre à concevoir une interface numérique structurée, cohérente utilisant correctement l’Auto Layout et le Composant.  
 Vous travaillerez sur une interface simple mais réaliste, proche d’un cas professionnel.
 
----
+--- 
 
 ## Contexte du projet
 Vous êtes designer UI junior pour un projet numérique.  
