@@ -86,7 +86,3 @@ Je me suis inspirée des sites **voyageursdumonde.fr** et **lonelyplanet.fr** po
 La navigation est organisée autour de **quatre rubriques principales** : Accueil, Destinations, Culture, Contact pour une accessibilité rapide.  
 Le parcours utilisateur commence par une **bannière d’accroche visuelle** avec un appel à l’action (« EXPLORER »), puis propose une sélection de destinations connues (Sidi Bou Saïd, Tozeur, Djerba) sous forme de cartes cliquables.  
 Les **auto-layout sur Figma** ont été utilisés pour assurer la cohérence des espaces, des alignements et une adaptation fluide aux différents écrans. Les **CTA** sont contrastés pour guider l’utilisateur vers plus de contenu.
-
----
-
-**Projet réalisé en collaboration avec : Melissa INACIO DOS SANTOS**
